@@ -1,0 +1,15 @@
+Project ideas
+
+1)meter sightings: is the local weather the key factor for the observability of meteors
+
+2) SDSS classification stars/galaxies based on spectral features : is this a star or a galaxy?
+
+3) LS/MODIS : hotspots: did they decrease after legislation was passed in XX
+
+4) NOAA rivers
+
+5) GEE
+
+6) SL forest NDVA time series: is vegetation health changing in the region XX
+
+7) hydrodynamic+ atmospheric model: influence of temperature on sea currents
