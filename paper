@@ -1,0 +1,21 @@
+introduction with the definition of the project, motivation
+
+description of the state of the art, including visualisation, how catalogs are passed, (parsed?)
+
+limitations of the state of the art, which limitations of the old versions, properties that are crucial to be improved, that will enhance the user's experience
+
+understanding of the structure of... the current method (?), new interface
+
+description of the desing of the updated interface, highligting how the design choices improve upon the previously posted solutions. present the new intervate, include description of the new features.
+
+experimental part - 
+
+define metrics for the performance of the visualisations
+
+2 groups of users: using the new and old versions, PROVE that the metrics from the new version are better than the new version.
+
+conclusions?
+
+upload to github
+
+acknowledgements: Inspired by the BigSkyEarth training school.
