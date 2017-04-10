@@ -1,0 +1,17 @@
+7/4/2017
+Project's presentation - comments and suggestions
+
+
+1. Giant vs. Dwarf stars: maybe it is better to use different symbols to distinguish the two categories rather than different sizes of the same symbol
+
+2. the user has to be able to "come back to the numbers" just looking at the visualization: color is not the best way to allow to do that
+
+3. relative metallicities respect to local environment or local velocities: these are important informations. Plot them in x and y in order to build a completely different visualization and so compare this one with the first one
+
+4. a similar visualisation can be done using Aladdin or topcat, managing up to 10^6 points. Since Gaia requests to manage 10^9 points, this visualization could fit Gaia archive needs. 
+
+5. Moreover about Aladdin: it gives informations from the data table clicking on a point. Create an interface between the plot and the table, maybe through zooming (In computer science words: link chart points with field in DB, on click - thanks Atanas :) )
+
+6. Lasso tool for the selection of the data -> make multiple plot from the selected stars (HRD, T-[Fe/H]..)
+
+7. Clear rules about the selection parameters
