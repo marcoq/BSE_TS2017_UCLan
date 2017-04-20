@@ -1,2 +1,7 @@
+# folder
+.idea
+
+# files
+*.pyc
 *.fits
 *.hdf5
